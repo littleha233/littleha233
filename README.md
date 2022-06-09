@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @littleha233
-- 👀 I’m not interested in coding
+- 👀 I’m gradually interested in coding
 - 🌱 I’m currently learning Blockchain-based decentralized applications
 - 💞️ I’m looking to collaborate on Smart Contract 
 - 📫 How to reach me -- email:adioslin1209@163.com
